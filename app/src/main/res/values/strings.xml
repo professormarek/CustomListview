@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomListview</string>
+
+    <string-array name="description_array">
+        <item>Google (it\'s really cool to google)</item>
+        <item>NBC uhhh check out the news and stuff</item>
+        <item>Seneca - check your Android marks</item>
+    </string-array>
+
+</resources>
